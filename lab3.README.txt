@@ -1,1 +1,4 @@
-name, date, description
+Richard Evan Canull 
+3/2/2015
+-Created a 3D object that rotates with the use of the arrow keys
+-There is lighting and shaders
